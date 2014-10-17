@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[loo:home|Door43 (loo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-loo|d43-loo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-loo/archive/master.zip|d43-loo.zip]]
+
+**Recent Changes**
+{{changes>ns = loo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/loo|Ethnologue data]]
+
